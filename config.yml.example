@@ -1,0 +1,11 @@
+responses_dir: responses
+endpoints:
+  "8100":
+    - url: /hello-1
+      file: hello-world-1
+    - url: /hello-2
+      file: hello-world-2
+
+  "8101":
+    - url: /hello-3
+      file: hello-world-3
